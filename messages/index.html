@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>NEO race control message system</title>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+
+<body>
+<div id="form">
+	<form action="">
+        <textarea id="textbox" cols="40" rows="3" name="message" maxlength="180" placeholder="Insert message here.."></textarea>
+        <p>Max. 180 characters</p>
+        <input type="submit" id="submit" name="submit" value="Submit">
+        <input type="submit" id="clear" name="clear" value="Clear message">
+    </form>
+</div>
+
+<div id="messages">
+ <p>Latest message:</p>
+ <span id="msg"></span>
+</div>
+
+<script type="text/javascript" src="messages.js"></script>
+</body>
+</html>

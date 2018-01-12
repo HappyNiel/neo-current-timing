@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Live Timing | NEO Endurance</title>
+
+    <!-- Styles -->
+    <link href="css/live-timing.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
+    <!--<link href="css/custom.css" rel="stylesheet" type="text/css" />-->
+
+    <!-- Scripts -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/convert.js"></script>
+    <script type="text/javascript" src="js/config.js"></script>
+    <script type="text/javascript" src="js/events_config.js"></script>
+    <script type="text/javascript" src="js/livetiming.js"></script>
+
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+</head>
+
+<body>
+	<header id="header">
+    	<div class="container">
+        	<div id="header_logo">
+	        	<a href="https://www.neo-endurance.com"><img id="header_img" src="https://www.neo-endurance.com/wp-content/uploads/2015/07/2015-NEO-Endurance-website-logo.png" alt="logo"></a>
+            </div>
+        </div>
+    </header>
+
+    <nav id="menu_background">
+    	<div class="container">
+        <ul id="menu-menu-1" class="menu">
+            <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-20 menu-item-24">
+                <a href="https://neo-endurance.com/">Home</a>
+            </li>
+            <li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
+                <a href="https://neo-endurance.com/news/">News</a>
+
+                <ul class="sub-menu">
+                    <li id="menu-item-496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-496">
+                        <a href="https://neo-endurance.com/category/nes/">Endurance Series</a>
+                    </li>
+                    <li id="menu-item-2430" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2430">
+                        <a href="https://neo-endurance.com/category/news/release-notes/">Release notes</a>
+                    </li>
+                </ul>
+            </li>
+            <li id="menu-item-625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-625">
+                <a href="https://neo-endurance.com/nes/">Endurance Series</a>
+                <ul class="sub-menu">
+                    <li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-694">
+                        <a href="https://neo-endurance.com/nes/regulations/">Regulations</a>
+                    </li>
+                    <li id="menu-item-639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-639">
+                        <a href="https://neo-endurance.com/nes/classes/">Classes</a></li>
+                    <li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-626">
+                        <a href="https://neo-endurance.com/nes/schedule/">Schedule</a></li>
+                    <li id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818">
+                        <a href="https://neo-endurance.com/nes/entry-list/">Entry list</a></li>
+                    <li id="menu-item-1209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1209">
+                        <a href="https://neo-endurance.com/nes/results/">Results</a></li>
+                    <li id="menu-item-1080" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080">
+                        <a href="https://neo-endurance.com/nes/standings/">Standings</a></li>
+                    <li id="menu-item-2997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2997">
+                        <a href="https://neo-endurance.com/nes/cleanx-challenge/">CleanX Challenge</a></li>
+                </ul>
+            </li>
+
+            <li id="menu-item-279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-279"><a href="https://neo-endurance.com/race-archive/">Media</a>
+                <ul class="sub-menu">
+                    <li id="menu-item-2502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2502"><a href="https://neo-endurance.com/race-archive/">Race archive</a></li>
+                    <li id="menu-item-2501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2501"><a href="https://neo-endurance.com/spotterguide/">Spotter guide</a></li>
+                </ul>
+            </li>
+            <li id="menu-item-888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-888"><a href="https://neo-endurance.com/partners/">Partners</a></li>
+            <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://neo-endurance.com/contact/">Contact</a></li>
+            <li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-362"><a href="https://neo-endurance.com/about-us/">About</a>
+                <ul class="sub-menu">
+                    <li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-364"><a href="https://neo-endurance.com/about-us/the-team/">The team</a></li>
+                </ul>
+            </li>
+            <li id="menu-item-2933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2933 current_page_item"><a href="https://live.neo-endurance.com">Live</a></li>
+        </ul>
+        </div>
+    </nav>
+
+    <div class="clearfix"></div>
+
+    <div id="content">
+    <div class="container">
+        <h1>NES 6 hours of Motegi</h1>
+
+        <div id="media-cont">
+            <div id="youtube">
+                <iframe width="711" height="400" src="https://www.youtube.com/embed/3mQAJOE2oZQ?rel=0" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div id="events">
+                <div id="eventcontainer">
+                    <table id="eventsTable">
+                        <thead>
+                        <tr></tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+           <div id="link_info">
+               <a class="link" href="https://docs.google.com/spreadsheets/d/1QorDe5E0TkbYuSNnPBjp-aYq3bQ2Dd8La5gsPY1raLM/edit?usp=sharing" target="_blank">
+                <strong>Real time penalty document</strong>
+               </a>
+
+               <a class="link" href="https://www.neo-endurance.com/spotterguide" target="_blank">
+                   <strong>Download NES spotters guide</strong>
+               </a>
+           </div>
+
+            <div id="site-title">
+                    Remaining time: <span id="timeRemaining"></span> <!--Track status: <span id="flag"></span> --> Update: <span id="msg"></span><!--</span> Fastest lap: <span id="fastestlap"></span>-->
+            </div>
+
+            <div id="drivers">
+                <table id="standingsTable">
+                    <thead></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+
+        </div>
+    </div>
+
+	<aside id="sponsor">
+    	<div class="container">
+            <div class="SponsorContainer">
+                <span class="logo">
+                	<a href="http://www.iracing.com/" target="_blank" style="border:0">
+                        <img src="images/partner-iracing-new.png" width="180" />
+                    </a>
+                </span>
+               	<span class="logo">
+                	<a href="https://heusinkveld.com/" target="_blank" style="border:0">
+                        <img src="images/partner-heusinkveld.png" width="180" />
+                    </a>
+                </span>
+                <span class="logo">
+                	<a href="http://isr-federation.com/" target="_blank" style="border:0">
+                        <img src="images/partner-isrf.png" width="180" />
+                    </a>
+                </span>
+                <span class="logo">
+                	<a href="http://racespot.tv/" target="_blank" style="border:0">
+                        <img src="images/partner-racespot-new.png" width="180" />
+                    </a>
+                </span>
+                <span class="logo">
+                	<a href="https://www.facebook.com/SimRacingTeams/" target="_blank" style="border:0">
+                        <img src="images/partner-srt-2017.png" width="180" />
+                    </a>
+                </span>
+            </div>
+        </div>
+    </aside>
+
+    <footer id="footer">
+    	<div class="container">
+        	 <p>Copyright 2013-2018 NEO Endurance and page designed by Niel Hekkens. Live timing is made by Nick Thissen.</p>
+        </div>
+    </footer>
+
+ <script type="text/javascript">
+
+        startLiveTiming();
+    </script>
+
+</body>
+</html>
