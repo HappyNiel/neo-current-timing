@@ -28,7 +28,7 @@
      { "teamID": 50871, "teamName": "Vendaval Simracing" },
      { "teamID": 62736, "teamName": "Shinya Michimi SimRacing" },
      { "teamID": 30633, "teamName": "Fenix Motorsports" },
-     { "teamID": 40011, "teamName": "BAM Workiva" },
+     { "teamID": 40011, "teamName": "Workiva Kinetic Racing" },
      { "teamID": 39778, "teamName": "Thrustmaster Mivano Racing GTE" },
      { "teamID": 86255, "teamName": "Follow eSports Team" },
      { "teamID": 86244, "teamName": "Pure Racing Team GTE" },
@@ -49,5 +49,11 @@
      { "teamID": 10171, "teamName": "Simracing For Holland" },
      { "teamID": 88224, "teamName": "JIM Racing Team" },
      { "teamID": 86354, "teamName": "Team RSO" },
-     { "teamID": 13105, "teamName": "Torrent Motorsports" }
+     { "teamID": 13105, "teamName": "Torrent Motorsports" },
+     { "teamID": 82072, "teamName": "Workiva Kinetic Racing" },
+     { "teamID": 65043, "teamName": "AVA Simsport" },
+     { "teamID": 13479, "teamName": "Samba Racing Team" },
+     { "teamID": 92080, "teamName": "GermanSimRacing.de" },
+     { "teamID": 18138, "teamName": "TNT Racing Gold" },
+     { "teamID": 10050, "teamName": "49 Motorsports" }
 ]
