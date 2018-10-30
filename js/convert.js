@@ -110,16 +110,26 @@ function CarIDtoName(car){
         case 39:
 
             name = '<img src="images/honda.png" alt="HPD ARX-01C" />';
+			break;
+			
+		case 98:
+            name = '<img src="images/audi.png" alt="Audi R18 e-tron quattro" />';
             break;
 
         case 92:
-
             name = '<img src="images/ford.png" alt="Ford GT" />';
             break;
 
         case 93:
-
             name = '<img src="images/ferrari.png" alt="Ferrari 488" />';
+			break;
+			
+        case 100:
+            name = '<img src="images/porsche.png" alt="Porsche 919 Hybrid" />';
+			break;
+			
+        case 102:
+            name = '<img src="images/porsche.png" alt="Porsche 911 RSR" />';
             break;
 
         default:
