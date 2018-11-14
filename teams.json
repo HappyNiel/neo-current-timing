@@ -1,57 +1,222 @@
 [
-     { "teamID": 48833, "teamName": "Thrustmaster Mivano Racing" },
-     { "teamID": 36094, "teamName": "Thrustmaster Mivano Racing" },
-     { "teamID": 63535, "teamName": "SimRC.de" },
-     { "teamID": 108139, "teamName": "SimatoK eSport" },
-     { "teamID": 66130, "teamName": "Torrent Motorsports" },
-     { "teamID": 10547, "teamName": "Virtual Motorsport" },
-     { "teamID": 112167, "teamName": "MSI eSports" },
-     { "teamID": 63058, "teamName": "Odox Motorsport" },
-     { "teamID": 91213, "teamName": "Race Clutch" },
-     { "teamID": 92877, "teamName": "F4H Motorsport" },
-     { "teamID": 90013, "teamName": "Porsche Basel by Sorg Rennsport eSports" },
-     { "teamID": 93933, "teamName": "VRTeRacing" },
-     { "teamID": 108767, "teamName": "AVA Vervatic" },
-     { "teamID": 14698, "teamName": "Team Chimera" },
-     { "teamID": 110056, "teamName": "Wyvern Racing" },
-     { "teamID": 97657, "teamName": "UI1-Positive SimRacing" },
-     { "teamID": 98170, "teamName": "UI1-Positive SimRacing" },
-     { "teamID": 109978, "teamName": "Schubert Motorsport" },
-     { "teamID": 110116, "teamName": "TNT Racing" },
-     { "teamID": 69048, "teamName": "Team Heusinkveld" },
-     { "teamID": 91706, "teamName": "Team MAD" },
-     { "teamID": 65043, "teamName": "AVA Vervatic" },
-     { "teamID": 10501, "teamName": "Roadbasterds" },
-     { "teamID": 108117, "teamName": "RacingCenter – Vib3sports" },
-     { "teamID": 107186, "teamName": "LuxSim24 MOATF Podcast" },
-     { "teamID": 77960, "teamName": "UI1-Positive SimRacing" },
-     { "teamID": 10269, "teamName": "SRN Motorsports" },
-     { "teamID": 80951, "teamName": "Torque Freak Racing" },
-     { "teamID": 88304, "teamName": "World of SimRacing Team" },
-     { "teamID": 10899, "teamName": "iRacing Today Motorsports" },
-     { "teamID": 10118, "teamName": "IRDK Endurance" },
-     { "teamID": 91214, "teamName": "Race Clutch" },
-     { "teamID": 108364, "teamName": "Inertia SimRacing" },
-     { "teamID": 80017, "teamName": "Apex Racing UK" },
-     { "teamID": 109395, "teamName": "Redface Racing By MXS Engineering & JRT" },
-     { "teamID": 51819, "teamName": "Euphoria Drivex Racing" },
-     { "teamID": 90015, "teamName": "Porsche Basel by Sorg Rennsport eSports" },
-     { "teamID": 39778, "teamName": "Thrustmaster Mivano Racing" },
-     { "teamID": 57628, "teamName": "Odox Motorsport" },
-     { "teamID": 31182, "teamName": "SRN Motorsports" },
-     { "teamID": 108802, "teamName": "MSI eSports" },
-     { "teamID": 61072, "teamName": "Team Buschfink Racing" },
-     { "teamID": 63792, "teamName": "SimRC.de" },
-     { "teamID": 108733, "teamName": "SimatoK eSport" },
-     { "teamID": 80950, "teamName": "Torque Freak Racing" },
-     { "teamID": 108639, "teamName": "ARMY Racing Team" },
-     { "teamID": 110188, "teamName": "Logitech G Altus Esports" },
-     { "teamID": 39979, "teamName": "Team Eighty-Four" },
-     { "teamID": 110638, "teamName": "Team Eighty-Five" },
-     { "teamID": 112125, "teamName": "CoRe SimRacing" },
-     { "teamID": 74207, "teamName": "TRITON Racing" },
-     { "teamID": 106662, "teamName": "Williams JIM Junior" },
-     { "teamID": 88224, "teamName": "Williams JIM Junior" },
-     { "teamID": 56514, "teamName": "Torrent Motorsports" },
-     { "teamID": 108332, "teamName": "ZENNITH ESPORT" }
+	{
+		"teamID": 48833,
+		"teamName": "Thrustmaster Mivano Racing"
+	},
+	{
+		"teamID": 36094,
+		"teamName": "Thrustmaster Mivano Racing"
+	},
+	{
+		"teamID": 63535,
+		"teamName": "SimRC.de"
+	},
+	{
+		"teamID": 108139,
+		"teamName": "SimatoK eSport"
+	},
+	{
+		"teamID": 66130,
+		"teamName": "Torrent Motorsports"
+	},
+	{
+		"teamID": 10547,
+		"teamName": "Virtual Motorsport"
+	},
+	{
+		"teamID": 112167,
+		"teamName": "MSI eSports"
+	},
+	{
+		"teamID": 63058,
+		"teamName": "Odox Motorsport"
+	},
+	{
+		"teamID": 91213,
+		"teamName": "Race Clutch"
+	},
+	{
+		"teamID": 92877,
+		"teamName": "F4H Motorsport"
+	},
+	{
+		"teamID": 90013,
+		"teamName": "Sorg Rennsport eSports"
+	},
+	{
+		"teamID": 93933,
+		"teamName": "VRTeRacing"
+	},
+	{
+		"teamID": 108767,
+		"teamName": "AVA Vervatic"
+	},
+	{
+		"teamID": 14698,
+		"teamName": "Team Chimera"
+	},
+	{
+		"teamID": 110056,
+		"teamName": "Wyvern Racing"
+	},
+	{
+		"teamID": 97657,
+		"teamName": "UI1-Positive SimRacing"
+	},
+	{
+		"teamID": 98170,
+		"teamName": "UI1-Positive SimRacing"
+	},
+	{
+		"teamID": 109978,
+		"teamName": "Schubert Motorsport"
+	},
+	{
+		"teamID": 110116,
+		"teamName": "TNT Racing"
+	},
+	{
+		"teamID": 69048,
+		"teamName": "Team Heusinkveld"
+	},
+	{
+		"teamID": 91706,
+		"teamName": "Team MAD"
+	},
+	{
+		"teamID": 65043,
+		"teamName": "AVA Vervatic"
+	},
+	{
+		"teamID": 10501,
+		"teamName": "Roadbasterds"
+	},
+	{
+		"teamID": 108117,
+		"teamName": "RacingCenter – Vib3sports"
+	},
+	{
+		"teamID": 107186,
+		"teamName": "LuxSim24 MOATF Podcast"
+	},
+	{
+		"teamID": 77960,
+		"teamName": "UI1-Positive SimRacing"
+	},
+	{
+		"teamID": 10269,
+		"teamName": "SRN Motorsports"
+	},
+	{
+		"teamID": 80951,
+		"teamName": "Torque Freak Racing"
+	},
+	{
+		"teamID": 88304,
+		"teamName": "World of SimRacing Team"
+	},
+	{
+		"teamID": 10899,
+		"teamName": "iRacing Today Motorsports"
+	},
+	{
+		"teamID": 10118,
+		"teamName": "IRDK Endurance"
+	},
+	{
+		"teamID": 91214,
+		"teamName": "Race Clutch"
+	},
+	{
+		"teamID": 108364,
+		"teamName": "Inertia SimRacing"
+	},
+	{
+		"teamID": 80017,
+		"teamName": "Apex Racing UK"
+	},
+	{
+		"teamID": 109395,
+		"teamName": "Redface Racing"
+	},
+	{
+		"teamID": 51819,
+		"teamName": "Euphoria Drivex Racing"
+	},
+	{
+		"teamID": 90015,
+		"teamName": "Sorg Rennsport eSports"
+	},
+	{
+		"teamID": 39778,
+		"teamName": "Thrustmaster Mivano Racing"
+	},
+	{
+		"teamID": 57628,
+		"teamName": "Odox Motorsport"
+	},
+	{
+		"teamID": 31182,
+		"teamName": "SRN Motorsports"
+	},
+	{
+		"teamID": 108802,
+		"teamName": "MSI eSports"
+	},
+	{
+		"teamID": 61072,
+		"teamName": "Team Buschfink Racing"
+	},
+	{
+		"teamID": 63792,
+		"teamName": "SimRC.de"
+	},
+	{
+		"teamID": 108733,
+		"teamName": "SimatoK eSport"
+	},
+	{
+		"teamID": 80950,
+		"teamName": "Torque Freak Racing"
+	},
+	{
+		"teamID": 108639,
+		"teamName": "ARMY Racing Team"
+	},
+	{
+		"teamID": 110188,
+		"teamName": "Logitech G Altus Esports"
+	},
+	{
+		"teamID": 39979,
+		"teamName": "Team Eighty-Four"
+	},
+	{
+		"teamID": 110638,
+		"teamName": "Team Eighty-Five"
+	},
+	{
+		"teamID": 112125,
+		"teamName": "CoRe SimRacing"
+	},
+	{
+		"teamID": 74207,
+		"teamName": "TRITON Racing"
+	},
+	{
+		"teamID": 106662,
+		"teamName": "Williams JIM Esports"
+	},
+	{
+		"teamID": 88224,
+		"teamName": "Williams JIM Esports"
+	},
+	{
+		"teamID": 56514,
+		"teamName": "Torrent Motorsports"
+	},
+	{
+		"teamID": 108332,
+		"teamName": "ZENNITH ESPORT"
+	}
 ]
