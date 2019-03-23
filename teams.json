@@ -133,7 +133,7 @@
 	},
 	{
 		"teamID": 80017,
-		"teamName": "Apex Racing UK"
+		"teamName": "Apex Racing Team"
 	},
 	{
 		"teamID": 109395,
@@ -189,11 +189,11 @@
 	},
 	{
 		"teamID": 39979,
-		"teamName": "Team Eighty-Four"
+		"teamName": "Biela Racing Team EURONICS"
 	},
 	{
 		"teamID": 110638,
-		"teamName": "Team Eighty-Five"
+		"teamName": "Biela Racing Team EURONICS"
 	},
 	{
 		"teamID": 112125,
@@ -218,5 +218,25 @@
 	{
 		"teamID": 108332,
 		"teamName": "ZENNITH ESPORT"
+	},
+	{
+		"teamID": 108772,
+		"teamName": "ASTRO Gaming Altus Esports"
+	},
+	{
+		"teamID": 109979,
+		"teamName": "Trick Simsports"
+	},
+	{
+		"teamID": 82074,
+		"teamName": "Kinetic Racing"
+	},
+	{
+		"teamID": 69227,
+		"teamName": "Graphite Racing"
+	},
+	{
+		"teamID": 54386,
+		"teamName": "Team Heusinkveld"
 	}
 ]
