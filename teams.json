@@ -1,190 +1,30 @@
 [
 	{
-		"teamID": 48833,
-		"teamName": "Thrustmaster Mivano Racing"
+		"teamID": 129724,
+		"teamName": "Phoenix Racing eSport"
 	},
 	{
-		"teamID": 36094,
-		"teamName": "Thrustmaster Mivano Racing"
+		"teamID": 74207,
+		"teamName": "DV1 TRITON Racing"
 	},
 	{
-		"teamID": 63535,
-		"teamName": "SimRC.de"
+		"teamID": 127444,
+		"teamName": "Leo Racing Team"
 	},
 	{
-		"teamID": 108139,
-		"teamName": "SimatoK eSport"
+		"teamID": 137190,
+		"teamName": "Williams JIM Esports "
 	},
 	{
-		"teamID": 66130,
-		"teamName": "Torrent Motorsports"
-	},
-	{
-		"teamID": 10547,
-		"teamName": "Virtual Motorsport"
-	},
-	{
-		"teamID": 112167,
-		"teamName": "MSI eSports"
-	},
-	{
-		"teamID": 63058,
-		"teamName": "Odox Motorsport"
-	},
-	{
-		"teamID": 91213,
-		"teamName": "Race Clutch"
-	},
-	{
-		"teamID": 92877,
-		"teamName": "Lazarus"
-	},
-	{
-		"teamID": 90013,
-		"teamName": "Porsche Basel by Sorg Rennsport eSports"
-	},
-	{
-		"teamID": 93933,
-		"teamName": "VRTeRacing"
-	},
-	{
-		"teamID": 108767,
-		"teamName": "AVA Vervatic"
-	},
-	{
-		"teamID": 14698,
-		"teamName": "Team Chimera"
-	},
-	{
-		"teamID": 110056,
-		"teamName": "Wyvern Racing"
-	},
-	{
-		"teamID": 97657,
-		"teamName": "UI1-Positive SimRacing"
-	},
-	{
-		"teamID": 98170,
-		"teamName": "UI1-Positive SimRacing"
-	},
-	{
-		"teamID": 109978,
-		"teamName": "Schubert Motorsport"
-	},
-	{
-		"teamID": 110116,
-		"teamName": "TNT Racing"
+		"teamID": 121309,
+		"teamName": "SRC Squadra Corse"
 	},
 	{
 		"teamID": 69048,
 		"teamName": "Team Heusinkveld"
 	},
 	{
-		"teamID": 91706,
-		"teamName": "Team MAD"
-	},
-	{
-		"teamID": 65043,
-		"teamName": "AVA Vervatic"
-	},
-	{
-		"teamID": 10501,
-		"teamName": "Roadbasterds"
-	},
-	{
-		"teamID": 108117,
-		"teamName": "RacingCenter – Vib3sports"
-	},
-	{
-		"teamID": 107186,
-		"teamName": "LuxSim24 MOATF Podcast"
-	},
-	{
-		"teamID": 77960,
-		"teamName": "UI1-Positive SimRacing"
-	},
-	{
-		"teamID": 10269,
-		"teamName": "SRN Motorsports"
-	},
-	{
-		"teamID": 80951,
-		"teamName": "Torque Freak Racing"
-	},
-	{
-		"teamID": 88304,
-		"teamName": "World of SimRacing Team"
-	},
-	{
-		"teamID": 10899,
-		"teamName": "iRacing Today Motorsports"
-	},
-	{
-		"teamID": 10118,
-		"teamName": "IRDK Endurance"
-	},
-	{
-		"teamID": 91214,
-		"teamName": "Race Clutch"
-	},
-	{
-		"teamID": 108364,
-		"teamName": "Inertia SimRacing"
-	},
-	{
-		"teamID": 80017,
-		"teamName": "Apex Racing Team"
-	},
-	{
-		"teamID": 109395,
-		"teamName": "Redface Racing"
-	},
-	{
-		"teamID": 51819,
-		"teamName": "Euphoria Drivex Racing"
-	},
-	{
-		"teamID": 90015,
-		"teamName": "Porsche Basel by Sorg Rennsport eSports"
-	},
-	{
-		"teamID": 39778,
-		"teamName": "Thrustmaster Mivano Racing"
-	},
-	{
-		"teamID": 57628,
-		"teamName": "Odox Motorsport"
-	},
-	{
-		"teamID": 31182,
-		"teamName": "SRN Motorsports"
-	},
-	{
-		"teamID": 108802,
-		"teamName": "MSI eSports"
-	},
-	{
-		"teamID": 61072,
-		"teamName": "Team Buschfink Racing"
-	},
-	{
-		"teamID": 63792,
-		"teamName": "SimRC.de"
-	},
-	{
-		"teamID": 108733,
-		"teamName": "SimatoK eSport"
-	},
-	{
-		"teamID": 80950,
-		"teamName": "Torque Freak Racing"
-	},
-	{
-		"teamID": 108639,
-		"teamName": "S2V Racing"
-	},
-	{
-		"teamID": 110188,
+		"teamID": 65804,
 		"teamName": "Logitech G Altus Esports"
 	},
 	{
@@ -196,47 +36,163 @@
 		"teamName": "Biela Racing Team EURONICS"
 	},
 	{
-		"teamID": 112125,
+		"teamID": 126357,
+		"teamName": "Sorg Rennsport eSports"
+	},
+	{
+		"teamID": 137440,
+		"teamName": "Williams Esports"
+	},
+	{
+		"teamID": 137397,
+		"teamName": "MSI eSports"
+	},
+	{
+		"teamID": 10547,
+		"teamName": "Virtual Motorsport"
+	},
+	{
+		"teamID": 122445,
+		"teamName": "Huber Racing E-Sports"
+	},
+	{
+		"teamID": 83099,
+		"teamName": "Team RSO"
+	},
+	{
+		"teamID": 97137394657,
+		"teamName": "Privateers"
+	},
+	{
+		"teamID": 137200,
 		"teamName": "CoRe SimRacing"
 	},
 	{
-		"teamID": 74207,
-		"teamName": "TRITON Racing"
+		"teamID": 123333,
+		"teamName": "Prologue React E-sport"
 	},
 	{
-		"teamID": 106662,
-		"teamName": "Williams JIM Esports"
+		"teamID": 93934,
+		"teamName": "Satellite Racing"
 	},
 	{
-		"teamID": 88224,
-		"teamName": "Williams JIM Esports"
+		"teamID": 93936,
+		"teamName": "Satellite Racing"
 	},
 	{
-		"teamID": 56514,
-		"teamName": "Torrent Motorsports"
+		"teamID": 80207,
+		"teamName": "RaceKraft Esports"
 	},
 	{
-		"teamID": 108332,
-		"teamName": "ZENNITH ESPORT"
+		"teamID": 81577,
+		"teamName": "Alpinestars Geodesic Racing"
+	},
+	{
+		"teamID": 74469,
+		"teamName": "CraigSetupShop"
+	},
+	{
+		"teamID": 137399,
+		"teamName": "Williams Esports"
+	},
+	{
+		"teamID": 91706,
+		"teamName": "Team MAD"
 	},
 	{
 		"teamID": 108772,
 		"teamName": "ASTRO Gaming Altus Esports"
 	},
 	{
-		"teamID": 109979,
-		"teamName": "Trick Simsports"
+		"teamID": 90013,
+		"teamName": "Sorg Rennsport eSports"
 	},
 	{
-		"teamID": 82074,
-		"teamName": "Kinetic Racing"
+		"teamID": 10406,
+		"teamName": "Team Chimera"
 	},
 	{
-		"teamID": 69227,
-		"teamName": "Graphite Racing"
+		"teamID": 58264,
+		"teamName": "Vendaval Simracing"
 	},
 	{
-		"teamID": 54386,
-		"teamName": "Team Heusinkveld"
+		"teamID": 55835,
+		"teamName": "SimRC"
+	},
+	{
+		"teamID": 137263,
+		"teamName": "MSI eSports"
+	},
+	{
+		"teamID": 80951,
+		"teamName": "Torque Freak Racing"
+	},
+	{
+		"teamID": 128432,
+		"teamName": "Evolution Racing Team"
+	},
+	{
+		"teamID": 66442,
+		"teamName": "Inertia SimRacing"
+	},
+	{
+		"teamID": 113273,
+		"teamName": "Gold Racing Team"
+	},
+	{
+		"teamID": 79715,
+		"teamName": "GOTeam Racing"
+	},
+	{
+		"teamID": 127754,
+		"teamName": "Williams JIM Esports"
+	},
+	{
+		"teamID": 125807,
+		"teamName": "Burst Esport"
+	},
+	{
+		"teamID": 81578,
+		"teamName": "Alpinestars Geodesic Racing"
+	},
+	{
+		"teamID": 10118,
+		"teamName": "IRDK Endurance"
+	},
+	{
+		"teamID": 137119,
+		"teamName": "Avid Chronic Racing"
+	},
+	{
+		"teamID": 31182,
+		"teamName": "SRN Motorsports"
+	},
+	{
+		"teamID": 108802,
+		"teamName": "MSI eSports"
+	},
+	{
+		"teamID": 136999,
+		"teamName": "Chartwell Racing"
+	},
+	{
+		"teamID": 110116,
+		"teamName": "TNT Racing"
+	},
+	{
+		"teamID": 136026,
+		"teamName": "Huber Racing E-Sports"
+	},
+	{
+		"teamID": 137285,
+		"teamName": "Williams JIM Esports"
+	},
+	{
+		"teamID": 92878,
+		"teamName": "F4H Racing"
+	},
+	{
+		"teamID": 123876,
+		"teamName": "DV1 TRITON Racing"
 	}
 ]
