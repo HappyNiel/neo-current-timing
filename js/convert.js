@@ -104,33 +104,28 @@ function convertRaceTime(seconds) {
 function CarIDtoName(car){
 	var name;
 
-	//NES4
+	//24H SERIES
     switch (car){
 
-        case 39:
-
-            name = '<img src="images/honda.png" alt="HPD ARX-01C" />';
+        // Mercedes
+        case 72:
+            name = '<img src="images/mercedes.png" alt="Mercedes AMG GT3" />';
 			break;
-			
-		case 98:
-            name = '<img src="images/audi.png" alt="Audi R18 e-tron quattro" />';
+
+        // Audi R8
+		case 73:
+            name = '<img src="images/audi.png" alt="Audi R8 LMS" />';
             break;
 
-        case 92:
-            name = '<img src="images/ford.png" alt="Ford GT" />';
+        // Porsche
+        case 88:
+            name = '<img src="images/porsche.png" alt="Porsche 911 GT3 Cup" />';
             break;
 
-        case 93:
-            name = '<img src="images/ferrari.png" alt="Ferrari 488" />';
+        // Audi RS3
+        case 112:
+            name = '<img src="images/audi.png" alt="Audi RS38 LMS" />';
 			break;
-			
-        case 100:
-            name = '<img src="images/porsche.png" alt="Porsche 919 Hybrid" />';
-			break;
-			
-        case 102:
-            name = '<img src="images/porsche.png" alt="Porsche 911 RSR" />';
-            break;
 
         default:
             name = car;
