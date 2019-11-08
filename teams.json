@@ -64,8 +64,8 @@
 		"teamName": "Team RSO"
 	},
 	{
-		"teamID": 137394,
-		"teamName": "Privateers"
+		"teamID": 141071,
+		"teamName": "Ronin Simsport"
 	},
 	{
 		"teamID": 137200,
@@ -133,7 +133,7 @@
 	},
 	{
 		"teamID": 128432,
-		"teamName": "Evolution Racing Team"
+		"teamName": "Apex Racing Team"
 	},
 	{
 		"teamID": 66442,
@@ -156,8 +156,8 @@
 		"teamName": "Burst Esport"
 	},
 	{
-		"teamID": 81578,
-		"teamName": "Alpinestars Geodesic Racing"
+		"teamID": 10127,
+		"teamName": "SuperSport Racing"
 	},
 	{
 		"teamID": 10118,
@@ -198,5 +198,9 @@
 	{
 		"teamID": 123876,
 		"teamName": "DV1 TRITON Racing"
+	},
+	{
+		"teamID": 96125,
+		"teamName": "S2V Racing"
 	}
 ]
