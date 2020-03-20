@@ -202,5 +202,29 @@
 	{
 		"teamID": 96125,
 		"teamName": "S2V Racing"
+	},
+	{
+		"teamID": 109754,
+		"teamName": "TRC Racing"
+	},
+	{
+		"teamID": 80651,
+		"teamName": "Autorama Motorsport AG"
+	},
+	{
+		"teamID": 130646,
+		"teamName": "SIMMSA Esports"
+	},
+	{
+		"teamID": 81269,
+		"teamName": "Aurys Racing Team"
+	},
+	{
+		"teamID": 80950,
+		"teamName": "Torque Freak Racing"
+	},
+	{
+		"teamID": 128894,
+		"teamName": "Red Camel Racing Esports"
 	}
 ]
