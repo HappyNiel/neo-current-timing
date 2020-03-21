@@ -107,6 +107,10 @@ function CarIDtoName(car){
 	//24H SERIES
     switch (car){
 
+        case 55:
+            name = '<img src="images/bmw.png" alt="BMW Z4 GT3" />';
+            break;
+
         // Mercedes
         case 72:
             name = '<img src="images/mercedes.png" alt="Mercedes AMG GT3" />';
